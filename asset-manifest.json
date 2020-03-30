@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chanuga/covid19.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Chanuga/covid19.git/static/js/main.b749df75.chunk.js",
+    "main.js.map": "/Chanuga/covid19.git/static/js/main.b749df75.chunk.js.map",
+    "runtime-main.js": "/Chanuga/covid19.git/static/js/runtime-main.90fa2643.js",
+    "runtime-main.js.map": "/Chanuga/covid19.git/static/js/runtime-main.90fa2643.js.map",
+    "static/js/2.60d1bc19.chunk.js": "/Chanuga/covid19.git/static/js/2.60d1bc19.chunk.js",
+    "static/js/2.60d1bc19.chunk.js.map": "/Chanuga/covid19.git/static/js/2.60d1bc19.chunk.js.map",
+    "index.html": "/Chanuga/covid19.git/index.html",
+    "precache-manifest.e35dc81231ad596208266b7ea83f3d8a.js": "/Chanuga/covid19.git/precache-manifest.e35dc81231ad596208266b7ea83f3d8a.js",
+    "service-worker.js": "/Chanuga/covid19.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Chanuga/covid19.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.60d1bc19.chunk.js.LICENSE.txt": "/Chanuga/covid19.git/static/js/2.60d1bc19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90fa2643.js",
+    "static/js/2.60d1bc19.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b749df75.chunk.js"
+  ]
+}
